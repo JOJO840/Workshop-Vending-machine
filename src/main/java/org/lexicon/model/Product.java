@@ -1,7 +1,7 @@
 package org.lexicon.model;
 
 public abstract class Product {  //Parent class
-    private int id;
+    private final int id;
     private double price;
     private String productName;
 

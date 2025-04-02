@@ -7,11 +7,13 @@ public class Soda extends Product{
 
     @Override
     String examine() {
+        // TODO determine this method?
         return "";
     }
 
     @Override
     String use() {
+        // TODO determine this method?
         return "";
     }
 }
